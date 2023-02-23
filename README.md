@@ -38,7 +38,10 @@ everyone usually call me as Dek Mei
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="tf" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" alt="fa" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" alt="laravel" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="js" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="css" width="40" height="40"/>
 </div>
 
 
