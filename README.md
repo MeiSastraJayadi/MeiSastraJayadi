@@ -8,9 +8,9 @@ everyone usually call me as Dek Mei
 
 <details><summary><h2>About Me</h2></summary>
 
-⋅⋅⋅ List one
+⋅⋅⋅List one
 
-⋅⋅⋅ List one
+⋅⋅⋅List two 
 
 </details>
 
