@@ -1,7 +1,7 @@
 ![alt text](https://github.com/MeiSastraJayadi/MeiSastraJayadi/blob/master/profile2.jpeg "Mei's Profile")
-# Hello Theres...:wave:
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Mei!
 
-Hi.. my name is I Made Mei Sastra Jayadi
+My name is I Made Mei Sastra Jayadi
 ---
 everyone usually call me as Dek Mei
 
