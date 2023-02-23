@@ -6,7 +6,7 @@ My name is I Made Mei Sastra Jayadi
 
 everyone usually call me as Dek Mei
 
-<details><summary><h2>About Me</h2></summary>
+## About Me
 
 <dd>-- I was born in Denpasar, 13 Mei 2002 :star2:</dd>
 
@@ -14,6 +14,5 @@ everyone usually call me as Dek Mei
 
 <dd>-- I am a Computer System student :desktop_computer:</dd>
 
-</details>
 
 
