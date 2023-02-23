@@ -26,7 +26,7 @@ everyone usually call me as Dek Mei
 ---
 <div align="center">
 
-## Languages and Tools
+## :wrench: Languages and Tools :gear:
 
 </div>
 
