@@ -31,7 +31,7 @@ everyone usually call me as Dek Mei
 </div>
 
 <div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" alt="vim" width="40" height="40"/>
 </div>
 
 
