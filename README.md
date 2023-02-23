@@ -2,8 +2,6 @@
 <div style="height : 30vh; width : 100%;">
   <img src="https://github.com/MeiSastraJayadi/MeiSastraJayadi/blob/master/profile.jpeg" 
 </div>
-  style="height:5%; width : 100%;"
-/>
 <details><summary><h2 style="margin-top : 4px;">So... Who I am? :question::grey_question:</h2></summary>
 
 <br/>
