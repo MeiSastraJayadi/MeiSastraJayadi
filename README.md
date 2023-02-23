@@ -36,6 +36,9 @@ everyone usually call me as Dek Mei
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt="tf" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="tf" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" alt="fa" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/tree/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/tree/master/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/>
 </div>
 
 
