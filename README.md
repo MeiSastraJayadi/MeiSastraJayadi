@@ -1,4 +1,4 @@
-![alt text](https://github.com/MeiSastraJayadi/MeiSastraJayadi/blob/master/full_ats_2.png "Mei's Profile")
+![alt text](https://github.com/MeiSastraJayadi/MeiSastraJayadi/blob/master/full_ats_3.png "Mei's Profile")
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Mei
 <div id="social-badges">
   <a href="https://id.linkedin.com/in/mei-sastra-jayadi-044625231">
