@@ -46,6 +46,7 @@ everyone usually call me as Dek Mei
 
 ---
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MeiSastraJayadi&show_icons=true&theme=tokyonight)
 
 
 
