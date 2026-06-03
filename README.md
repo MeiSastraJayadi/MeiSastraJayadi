@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github.com/MeiSastraJayadi/MeiSastraJayadi/blob/master/cover.png?raw=true" style="width: 100%;">
   
-  <h1>Hi, I'm Mei 👋</h1>
+  <h1>Hi, I'm Kadek Mei 👋</h1>
   <h3>Fullstack Developer</h3>
 
   <p>
