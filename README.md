@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/MeiSastraJayadi/MeiSastraJayadi/blob/master/full_ats_3.png?raw=true" style="width: 100%;">
+  <img src="https://github.com/MeiSastraJayadi/MeiSastraJayadi/blob/master/cover.png?raw=true" style="width: 100%;">
   
   <h1>Hi, I'm Mei 👋</h1>
   <h3>Fullstack Developer</h3>
